@@ -1,0 +1,5 @@
+ul#linksContainer li
+{
+    display: inline-block;
+    height: inherit;
+}
