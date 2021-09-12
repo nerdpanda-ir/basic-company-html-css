@@ -8,4 +8,33 @@ ul#linksContainer li
 {
     display: inline-block;
     height: inherit;
+    font-size: 20px;
+    margin-left: 6px;
+    position: relative;
+}
+ul#linksContainer li:last-child
+{
+    margin-left: unset;
+}
+ul#linksContainer li:hover a
+{
+    color: #007ecb;
+}
+ul#linksContainer li:hover:after
+{
+    display: block;
+    width: 100%;
+}
+ul#linksContainer li:after
+{
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #007ecb;
+    position: relative;
+    top: -2px;
+    margin: 0 auto;
+    transition: all 450ms ease-out  ;
+
 }
