@@ -1,0 +1,18 @@
+section#headerParallaxContent
+{
+    background-color: rgba(0 , 0 , 0 , 0.6);
+    color: white;
+    width: 50%;
+    margin: 0 auto;
+    height: 250px;
+    border-radius: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 54px 0;
+    transition: background-color 350ms linear;
+}
+section#headerParallaxContent:hover
+{
+    background: rgba(0 , 0 , 0 , 0.8);
+}
+
