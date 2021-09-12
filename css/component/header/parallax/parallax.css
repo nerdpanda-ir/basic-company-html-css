@@ -10,4 +10,6 @@ section#headerParallax
     background-size:cover;
     background-position: top left;
     background-attachment:fixed ;
+    padding-top: 150px;
+    box-sizing: border-box;
 }
