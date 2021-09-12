@@ -1,21 +1,4 @@
 #linksContainer li a i
 {
     margin-left: 6px;
-    position: relative;
-}
-#linksContainer li:nth-child(2) a i
-{
-    top: 2px;
-}
-#linksContainer li:nth-child(3) a i
-{
-    top: 1px;
-}
-#linksContainer li:nth-child(4) a i
-{
-    top: 3px;
-}
-#linksContainer li:nth-child(5) a i
-{
-    top: 2px;
 }
