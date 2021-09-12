@@ -10,4 +10,8 @@ ul#linksContainer li a
     display: inline-block;
     height: inherit;
     text-decoration: unset;
+    padding: 0 15px;
+    line-height: 68px;
+    transition: all 600ms ease-out  450ms;
+    color: #212020;
 }
