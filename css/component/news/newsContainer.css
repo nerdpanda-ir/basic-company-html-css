@@ -3,3 +3,8 @@
     @import url("newsItem/newsItem.css");
 
 /*------ import ------*/
+
+#newsContainer
+{
+    text-align: center;
+}
