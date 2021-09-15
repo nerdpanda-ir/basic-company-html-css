@@ -1,3 +1,6 @@
+/*------ import ------*/
+    @import url("thumbnail/thumbnail.css");
+/*------ import ------*/
 .newsItem header
 {
     margin-bottom: 20px;
