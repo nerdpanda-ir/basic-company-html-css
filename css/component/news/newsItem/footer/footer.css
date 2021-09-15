@@ -1,3 +1,6 @@
+/*------ import ------*/
+    @import url("urlItemsContainer/urlItemsContainer.css");
+/*------ import ------*/
 .newsItem footer
 {
     background: #131313;
