@@ -1,0 +1,10 @@
+.newsItem footer .articleFooterUrlsContainer li
+{
+    display: inline-block;
+    margin-left: 15px;
+}
+.newsItem footer .articleFooterUrlsContainer li:last-child
+{
+    margin-left: unset;
+
+}
