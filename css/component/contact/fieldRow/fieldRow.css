@@ -1,5 +1,6 @@
 /*------ import ------*/
     @import url("field/field.css");
+    @import url("label/label.css");
 /*------ import ------*/
 #contact .contactFieldRow
 {
