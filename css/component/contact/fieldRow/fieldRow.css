@@ -1,0 +1,14 @@
+#contact .contactFieldRow
+{
+    width: 80%;
+    margin: 65px auto;
+    position: relative;
+}
+#contact .contactFieldRow:first-child
+{
+    margin-top: unset;
+}
+#contact .contactFieldRow:last-child
+{
+    margin-bottom: unset;
+}
