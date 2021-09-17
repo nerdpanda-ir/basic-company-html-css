@@ -1,0 +1,20 @@
+/*------ import ------*/
+    @import url("icon/icon.css");
+/*------ import ------*/
+.separator .iconWrapper {
+    width: 5%;
+    height: inherit;
+    background-color: #10B981;
+    position: absolute;
+    box-sizing: border-box;
+    border-radius: inherit;
+    transition:  width 444ms linear 334ms;
+    text-align: right;
+    line-height: 69px;
+    padding: 0 15px;
+}
+
+.separator:hover .iconWrapper
+{
+    width: 100%;
+}
