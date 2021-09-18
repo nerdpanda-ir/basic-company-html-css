@@ -4,7 +4,7 @@
 .separator .iconWrapper {
     width: 5%;
     height: inherit;
-    background-color: #10B981;
+    background: linear-gradient(to right, #4776e6, #8e54e9);
     position: absolute;
     box-sizing: border-box;
     border-radius: inherit;
