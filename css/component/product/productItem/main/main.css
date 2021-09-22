@@ -1,3 +1,7 @@
+/*------ import ------*/
+    @import url("title/title.css");
+    @import url("describe/describe.css");
+/*------ import ------*/
 .product main
 {
     margin-bottom: 22px;
