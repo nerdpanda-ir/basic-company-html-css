@@ -12,6 +12,7 @@
     margin-left: 22px;
     text-decoration: none;
     color: inherit;
+    border-radius: 5px;
 }
 .product:last-child
 {
